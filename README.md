@@ -1,4 +1,4 @@
-# Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network
+# OmniAnomaly
 
 
 
